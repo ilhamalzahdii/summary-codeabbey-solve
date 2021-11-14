@@ -1,7 +1,7 @@
-# summary-codeabbey-solve 
+# 📚 summary-codeabbey-solve 
 Rangkuman pemecahan masalah yang ada di codeabbey, blessing, dan total blessing yang dipilih secara keseluruhan 
 
-# Assignment_1
+## 📜 Assignment_1
 Masalah yang dapat saya pecahkan yaitu:
 1. Rounding dengan blessing : 3,07  
 2. Fahrenheit to Celsius dengan blessing : 3,18  
@@ -16,7 +16,7 @@ Masalah yang dapat saya pecahkan yaitu:
 
 TOTAL BLESSING DARI 10 pemecahan yang dipilih: 38,52
 
-# Assignment_2
+## 📜 Assignment_2
 Masalah yang dapat saya pecahkan yaitu:
 1. Array Counters dengan blessing : 4,28
 2. Linear Function dengan blessing : 4,39  
