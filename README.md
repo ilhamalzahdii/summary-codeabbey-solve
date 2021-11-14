@@ -18,9 +18,9 @@ TOTAL BLESSING DARI 10 pemecahan yang dipilih: 38,52
 
 # Assignment_2
 Masalah yang dapat saya pecahkan yaitu:
-1. Linear Function dengan blessing : 4,39  
-2. Collatz Sequence dengan blessing : 4,52  
-3. Bubble Sort  dengan blessing : 4,80 
+1. Array Counters dengan blessing : 4,28
+2. Linear Function dengan blessing : 4,39  
+3. Collatz Sequence dengan blessing : 4,52  
 4. Greatest Common Divisor  dengan blessing : 4,86  
 5. Square Root  dengan blessing : 4,98 
 6. Pythagorean Theorem  dengan blessing : 5,28  
@@ -29,4 +29,4 @@ Masalah yang dapat saya pecahkan yaitu:
 9. Josephus Problem  dengan blessing : 5,62  
 10. Bit Count  dengan blessing : 5,82  
 
-TOTAL BLESSING DARI 10 pemecahan yang dipilih: 51,09
+TOTAL BLESSING DARI 10 pemecahan yang dipilih: 50,57
