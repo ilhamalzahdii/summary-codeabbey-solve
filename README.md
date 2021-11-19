@@ -30,3 +30,18 @@ Masalah yang dapat saya pecahkan yaitu:
 10. Bit Count  dengan blessing : 5,82  
 
 TOTAL BLESSING DARI 10 pemecahan yang dipilih: 50,57
+
+## 📜 Assignment_3
+Masalah yang dapat saya pecahkan yaitu:
+1. Linear Congruential Generator dengan blessing : 5,56
+2. Bubble in Array dengan blessing : 5,06  
+3. Palindromes dengan blessing : 5,20  
+4. Savings Calculator  dengan blessing : 5,53  
+5. Rotate String  dengan blessing : 5,20 
+6. Double Dice Roll  dengan blessing : 5,81  
+7. Caesar Shift Cipher  dengan blessing : 5,85  
+8. Rock Paper Scissors  dengan blessing : 5,90 
+9. Bulls and Cows  dengan blessing : 6.14  
+10. Blackjack Counting  dengan blessing : 6,33  
+
+TOTAL BLESSING DARI 10 pemecahan yang dipilih: 57,14
