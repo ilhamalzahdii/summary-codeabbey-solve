@@ -45,3 +45,18 @@ Masalah yang dapat saya pecahkan yaitu:
 10. Blackjack Counting  dengan blessing : 6,33  
 
 TOTAL BLESSING DARI 10 pemecahan yang dipilih: 57,14
+
+## 📜 Assignment_4
+Masalah yang dapat saya pecahkan yaitu:
+1. Binary Search dengan blessing : 6,67
+2. Selection Sort dengan blessing : 6,76  
+3. Mortgage Calculator dengan blessing : 6,82  
+4. Tic-Tac-Toe dengan blessing : 6,92  
+5. Integer Factorization dengan blessing : 6,96 
+6. Fibonacci Divisibility  dengan blessing : 6,98  
+7. Prime Ranges  dengan blessing : 7,17  
+8. Share Price Volatility  dengan blessing : 7,29 
+9. Flying Text Screensaver  dengan blessing : 7,63 
+10. Pythagorean Triples  dengan blessing : 7,96  
+
+TOTAL BLESSING DARI 10 pemecahan yang dipilih: 71,16
